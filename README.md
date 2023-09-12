@@ -1,2 +1,2 @@
 # Pandaisia-Chocolate
-A website emulating a chocolate company to learn gridded layouts in CSS
+HTML and CSS based project with a focus on using CSS to design page layouts
